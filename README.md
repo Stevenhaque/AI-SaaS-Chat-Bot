@@ -1,2 +1,2 @@
 # AI SaaS Chat Bot
-A chat bot
+A chat bot.
